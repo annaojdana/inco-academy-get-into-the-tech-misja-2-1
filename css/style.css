@@ -1,0 +1,90 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.logo,
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90px;
+  text-align: center;
+  color: #fff;
+  background-color: #0e054b;
+  font-size: 16px;
+  font-family: "Architects Daughter", cursive;
+}
+.title {
+  margin: 90px 200px;
+  text-align: center;
+}
+.title h1 {
+  text-transform: uppercase;
+  font-family: "Architects Daughter", cursive;
+  font-size: 44px;
+}
+.title p {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  letter-spacing: -0.5px;
+}
+.cards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.card {
+  margin-bottom: 140px;
+  padding: 20px;
+  width: 900px;
+  height: 515px;
+  background-color: #0e054b;
+  display: flex;
+  flex-direction: column;
+}
+.card-head {
+  display: flex;
+  height: 385px;
+}
+.card-text {
+  padding-top: 20px;
+  padding-right: 40px;
+  height: 385px;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+}
+.card-text h2,
+.card-text h3 {
+  color: #fcc317;
+  text-transform: uppercase;
+}
+.second h2,
+.second h3{
+    color: #fa3e39;
+}
+.card-text h2 {
+  font-size: 50px;
+}
+.card-text h3 {
+  font-size: 26px;
+  font-weight: lighter;
+  padding-top: 40px;
+  padding-bottom: 55px;
+}
+.card-text p {
+  font-size: 24px;
+}
+.card img {
+  width: 320px;
+  height: 320px;
+}
+.card-icons{
+    display: flex;
+    justify-content: space-around
+}
+.card-icons img {
+  width: 150px;
+  height: 90px;
+ }
