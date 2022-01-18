@@ -4,7 +4,7 @@ Projekt powstał w ramach 5-tygodniowego programu Get Into Tech z INCO Academy
 
 ## Podgląd projektu
 
-[ https://annaojdana.github.io/inco-academy-misja-2-1/]( https://annaojdana.github.io/inco-academy-misja-2-1/)
+[https://annaojdana.github.io/inco-academy-get-into-the-tech-misja-2-1/](https://annaojdana.github.io/inco-academy-get-into-the-tech-misja-2-1/)
 
 ## Technologie
 - HTML5
